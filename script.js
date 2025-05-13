@@ -17,7 +17,6 @@ document
     const murchikLovesMurka = true;
     const murkaLubitMurchika = true;
     const isLove = murchikLovesMurka && murkaLubitMurchika;
-    //const murkaHasMurchik = true;
     console.log(isLove);
     
     const testObj = {
