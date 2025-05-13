@@ -14,12 +14,12 @@ document
     //   console.log("Неверный пароль.");
     // }
 
-    const murchikLovesMurka = false;
+    const murchikLovesMurka = true;
     const murkaLubitMurchika = true;
     const isLove = murchikLovesMurka && murkaLubitMurchika;
     //const murkaHasMurchik = true;
     console.log(isLove);
-
+    
     const testObj = {
       name: "Murchik",
       age: 38,
