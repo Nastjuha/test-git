@@ -5,7 +5,7 @@ document
     event.preventDefault(); // Отменяем стандартное поведение формы
 
     const enteredPassword = document.getElementById("password").value;
-    const correctPassword = "12345"; // Заданный правильный пароль
+    const correctPassword = "122345"; // Заданный правильный пароль
 
     // // Сравниваем введённый пароль с правильным
     // if (enteredPassword === correctPassword) {
